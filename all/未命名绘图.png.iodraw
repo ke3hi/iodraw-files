@@ -29,7 +29,7 @@
           <mxGeometry x="302.5" y="537" width="185" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="yNF7-qc4Mspe36P6vIYz-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;获取输电杆塔模态信息，得到杆塔动力学响应&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="680" width="175" height="130" as="geometry" />
+          <mxGeometry x="307.5" y="690" width="175" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
