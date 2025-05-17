@@ -1,57 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kG8F3g7pwuNskeH8AEtL">
-    <mxGraphModel dx="830" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1709" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNF7-qc4Mspe36P6vIYz-1" target="yNF7-qc4Mspe36P6vIYz-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;杆塔模型搭建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;模态分析&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNF7-qc4Mspe36P6vIYz-4" target="yNF7-qc4Mspe36P6vIYz-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基于模态置信准则进行算法寻优&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="495" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yNF7-qc4Mspe36P6vIYz-6" target="yNF7-qc4Mspe36P6vIYz-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;选择传感器测定，给出优化部署方案&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="660" width="185" height="95.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;获取输电杆塔模态信息，得到杆塔动力学响应&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="810" width="175" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;模态振型向量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;固有频率&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNF7-qc4Mspe36P6vIYz-2" target="yNF7-qc4Mspe36P6vIYz-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="470" as="sourcePoint" />
-            <mxPoint x="439" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNF7-qc4Mspe36P6vIYz-2" target="yNF7-qc4Mspe36P6vIYz-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="470" as="sourcePoint" />
-            <mxPoint x="540" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yNF7-qc4Mspe36P6vIYz-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yNF7-qc4Mspe36P6vIYz-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="440" as="sourcePoint" />
-            <mxPoint x="540" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
